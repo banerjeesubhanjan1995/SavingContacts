@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="io.cordova.myapp06cf3b8a7a5a47c79822fad6e2e644a3" version="1.0" primary="true">
+		<Qualifiers>
+			<Scale>240</Scale>
+		</Qualifiers>
+		<ResourceMapSubtree name="Files">
+			<NamedResource name="config.xml" uri="ms-resource://io.cordova.myapp06cf3b8a7a5a47c79822fad6e2e644a3/Files/config.xml">
+				<Candidate type="Path">
+					<Value>config.xml</Value>
+				</Candidate>
+			</NamedResource>
+			<ResourceMapSubtree name="images">
+				<NamedResource name="SplashScreen.png" uri="ms-resource://io.cordova.myapp06cf3b8a7a5a47c79822fad6e2e644a3/Files/images/SplashScreen.png"/>
+				<NamedResource name="SplashScreenPhone.png" uri="ms-resource://io.cordova.myapp06cf3b8a7a5a47c79822fad6e2e644a3/Files/images/SplashScreenPhone.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>images\SplashScreenPhone.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square150x150Logo.png" uri="ms-resource://io.cordova.myapp06cf3b8a7a5a47c79822fad6e2e644a3/Files/images/Square150x150Logo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>images\Square150x150Logo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square30x30Logo.png" uri="ms-resource://io.cordova.myapp06cf3b8a7a5a47c79822fad6e2e644a3/Files/images/Square30x30Logo.png"/>
+				<NamedResource name="Square310x310Logo.png" uri="ms-resource://io.cordova.myapp06cf3b8a7a5a47c79822fad6e2e644a3/Files/images/Square310x310Logo.png"/>
+				<NamedResource name="Square44x44Logo.png" uri="ms-resource://io.cordova.myapp06cf3b8a7a5a47c79822fad6e2e644a3/Files/images/Square44x44Logo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>images\Square44x44Logo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square70x70Logo.png" uri="ms-resource://io.cordova.myapp06cf3b8a7a5a47c79822fad6e2e644a3/Files/images/Square70x70Logo.png"/>
+				<NamedResource name="Square71x71Logo.png" uri="ms-resource://io.cordova.myapp06cf3b8a7a5a47c79822fad6e2e644a3/Files/images/Square71x71Logo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>images\Square71x71Logo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="StoreLogo.png" uri="ms-resource://io.cordova.myapp06cf3b8a7a5a47c79822fad6e2e644a3/Files/images/StoreLogo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>images\StoreLogo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Wide310x150Logo.png" uri="ms-resource://io.cordova.myapp06cf3b8a7a5a47c79822fad6e2e644a3/Files/images/Wide310x150Logo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>images\Wide310x150Logo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="www">
+				<NamedResource name="cordova.js" uri="ms-resource://io.cordova.myapp06cf3b8a7a5a47c79822fad6e2e644a3/Files/www/cordova.js">
+					<Candidate type="Path">
+						<Value>www\cordova.js</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="cordova_plugins.js" uri="ms-resource://io.cordova.myapp06cf3b8a7a5a47c79822fad6e2e644a3/Files/www/cordova_plugins.js">
+					<Candidate type="Path">
+						<Value>www\cordova_plugins.js</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="index.html" uri="ms-resource://io.cordova.myapp06cf3b8a7a5a47c79822fad6e2e644a3/Files/www/index.html">
+					<Candidate type="Path">
+						<Value>www\index.html</Value>
+					</Candidate>
+				</NamedResource>
+				<ResourceMapSubtree name="css">
+					<NamedResource name="chui-android-3.8.5.css" uri="ms-resource://io.cordova.myapp06cf3b8a7a5a47c79822fad6e2e644a3/Files/www/css/chui-android-3.8.5.css">
+						<Candidate type="Path">
+							<Value>www\css\chui-android-3.8.5.css</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="chui-win-3.8.5.css" uri="ms-resource://io.cordova.myapp06cf3b8a7a5a47c79822fad6e2e644a3/Files/www/css/chui-win-3.8.5.css">
+						<Candidate type="Path">
+							<Value>www\css\chui-win-3.8.5.css</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="index.css" uri="ms-resource://io.cordova.myapp06cf3b8a7a5a47c79822fad6e2e644a3/Files/www/css/index.css">
+						<Candidate type="Path">
+							<Value>www\css\index.css</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="plugins">
+					<ResourceMapSubtree name="org.apache.cordova.contacts">
+						<ResourceMapSubtree name="src">
+							<ResourceMapSubtree name="windows">
+								<NamedResource name="ContactProxy.js" uri="ms-resource://io.cordova.myapp06cf3b8a7a5a47c79822fad6e2e644a3/Files/www/plugins/org.apache.cordova.contacts/src/windows/ContactProxy.js">
+									<Candidate type="Path">
+										<Value>www\plugins\org.apache.cordova.contacts\src\windows\ContactProxy.js</Value>
+									</Candidate>
+								</NamedResource>
+							</ResourceMapSubtree>
+						</ResourceMapSubtree>
+						<ResourceMapSubtree name="www">
+							<NamedResource name="Contact.js" uri="ms-resource://io.cordova.myapp06cf3b8a7a5a47c79822fad6e2e644a3/Files/www/plugins/org.apache.cordova.contacts/www/Contact.js">
+								<Candidate type="Path">
+									<Value>www\plugins\org.apache.cordova.contacts\www\Contact.js</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="ContactAddress.js" uri="ms-resource://io.cordova.myapp06cf3b8a7a5a47c79822fad6e2e644a3/Files/www/plugins/org.apache.cordova.contacts/www/ContactAddress.js">
+								<Candidate type="Path">
+									<Value>www\plugins\org.apache.cordova.contacts\www\ContactAddress.js</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="ContactError.js" uri="ms-resource://io.cordova.myapp06cf3b8a7a5a47c79822fad6e2e644a3/Files/www/plugins/org.apache.cordova.contacts/www/ContactError.js">
+								<Candidate type="Path">
+									<Value>www\plugins\org.apache.cordova.contacts\www\ContactError.js</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="ContactField.js" uri="ms-resource://io.cordova.myapp06cf3b8a7a5a47c79822fad6e2e644a3/Files/www/plugins/org.apache.cordova.contacts/www/ContactField.js">
+								<Candidate type="Path">
+									<Value>www\plugins\org.apache.cordova.contacts\www\ContactField.js</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="ContactFieldType.js" uri="ms-resource://io.cordova.myapp06cf3b8a7a5a47c79822fad6e2e644a3/Files/www/plugins/org.apache.cordova.contacts/www/ContactFieldType.js">
+								<Candidate type="Path">
+									<Value>www\plugins\org.apache.cordova.contacts\www\ContactFieldType.js</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="ContactFindOptions.js" uri="ms-resource://io.cordova.myapp06cf3b8a7a5a47c79822fad6e2e644a3/Files/www/plugins/org.apache.cordova.contacts/www/ContactFindOptions.js">
+								<Candidate type="Path">
+									<Value>www\plugins\org.apache.cordova.contacts\www\ContactFindOptions.js</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="ContactName.js" uri="ms-resource://io.cordova.myapp06cf3b8a7a5a47c79822fad6e2e644a3/Files/www/plugins/org.apache.cordova.contacts/www/ContactName.js">
+								<Candidate type="Path">
+									<Value>www\plugins\org.apache.cordova.contacts\www\ContactName.js</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="ContactOrganization.js" uri="ms-resource://io.cordova.myapp06cf3b8a7a5a47c79822fad6e2e644a3/Files/www/plugins/org.apache.cordova.contacts/www/ContactOrganization.js">
+								<Candidate type="Path">
+									<Value>www\plugins\org.apache.cordova.contacts\www\ContactOrganization.js</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="contacts.js" uri="ms-resource://io.cordova.myapp06cf3b8a7a5a47c79822fad6e2e644a3/Files/www/plugins/org.apache.cordova.contacts/www/contacts.js">
+								<Candidate type="Path">
+									<Value>www\plugins\org.apache.cordova.contacts\www\contacts.js</Value>
+								</Candidate>
+							</NamedResource>
+						</ResourceMapSubtree>
+					</ResourceMapSubtree>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="scripts">
+					<NamedResource name="chui-3.8.5.js" uri="ms-resource://io.cordova.myapp06cf3b8a7a5a47c79822fad6e2e644a3/Files/www/scripts/chui-3.8.5.js">
+						<Candidate type="Path">
+							<Value>www\scripts\chui-3.8.5.js</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="index.js" uri="ms-resource://io.cordova.myapp06cf3b8a7a5a47c79822fad6e2e644a3/Files/www/scripts/index.js">
+						<Candidate type="Path">
+							<Value>www\scripts\index.js</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="jquery-2.1.0.js" uri="ms-resource://io.cordova.myapp06cf3b8a7a5a47c79822fad6e2e644a3/Files/www/scripts/jquery-2.1.0.js">
+						<Candidate type="Path">
+							<Value>www\scripts\jquery-2.1.0.js</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="platformOverrides.js" uri="ms-resource://io.cordova.myapp06cf3b8a7a5a47c79822fad6e2e644a3/Files/www/scripts/platformOverrides.js">
+						<Candidate type="Path">
+							<Value>www\scripts\platformOverrides.js</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="winstore-jscompat.js" uri="ms-resource://io.cordova.myapp06cf3b8a7a5a47c79822fad6e2e644a3/Files/www/scripts/winstore-jscompat.js">
+						<Candidate type="Path">
+							<Value>www\scripts\winstore-jscompat.js</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>
